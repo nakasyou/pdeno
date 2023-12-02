@@ -1,0 +1,1 @@
+export const PDENO_DENO_DTS_DIR = './.pdeno/deno'

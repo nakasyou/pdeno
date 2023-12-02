@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "types": ["./.pdeno/nomal.d.ts"],
+        "target": "ESNext",
+        "module": "ESNext",
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+        "lib": ["ESNext", "DOM"]
+    }
+}
